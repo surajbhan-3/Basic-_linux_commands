@@ -1,8 +1,27 @@
-# Basic-_linux_commands
-Basic linux commands used on regular basis
+# Basic-_linux_commands   
+
+##  Linux Operating system  | Debian  Distribution of linux | using zsh shell
+
+### List of debian distors
+* Ubuntu
+* Linux Mint
+* MX linux
+* Parrot os
+* Kali linux
+
+<hr>
+
+Basic linux commands used on regular basis  <br>
+
 
 
 <hr>
+
+### Check which type of shell is using 
+  <blockquote>
+  $ echo $0     [this commands shows the which type of shell you are using.]
+ </blockquote>
+
 
 ### Switch  user to root user
  <blockquote>
