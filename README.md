@@ -58,3 +58,25 @@ Basic linux commands used on regular basis
    $ cat file-name
  </blockquote>
  
+ 
+ ### copy and paste commands in terminal
+ <blockquote>
+    For copy select using mouse and than ctrl+shift+c  <br>
+    For paste  ctrl+shift+v
+ </blockquote>
+
+### cpu/processor information
+ <blockquote>
+   $ cat proc/cpuinfo   [imp: it will gives you info about processsor,cpu family, model,vendorid,cpu Mhz,cache size,many more]
+ </blockquote>
+ 
+ 
+ 
+  ### Checking ther services which are  running 
+ <blockquote>
+    $ service --status-all     [this command list all the services that are currently running]
+ </blockquote>
+ 
+ 
+ 
+
