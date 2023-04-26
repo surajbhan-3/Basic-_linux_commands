@@ -2,7 +2,7 @@
 
 ##  Linux Operating system  | Debian  Distribution of linux | using zsh shell
 
-### List of debian distors
+### List of debian distros
 * Ubuntu
 * Linux Mint
 * MX linux
