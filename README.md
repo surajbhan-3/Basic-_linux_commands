@@ -102,18 +102,21 @@ Basic linux commands used on regular basis  <br>
  
  ### Linux boot time  detail :- Taking too much time on booting 
    
-    <blockquote>
-    $ systemd-analyze <br>
+  <blockquote>
+    
+       $ systemd-analyze
       
-Result:-  Startup finished in 7.003s (firmware) + 6.682s (loader) + 15.391s (kernel) + 1min 14.216s (userspace) = 1min 43.294s 
-graphical.target reached after 1min 13.328s in userspace
+         Result:-  Startup finished in 7.003s (firmware) + 6.682s (loader) + 15.391s (kernel) + 1min 14.216s
+         (userspace) = 1min 43.294s  graphical.target reached after 1min 13.328s in userspace
 
-
-</blockquote>
+  </blockquote>
+  <hr>
  
  ### Checking which service is taking too much time in booting
  <blockquote>
+  
  $ systemd-analyze blame <br>
+  
  result:- 
  45.817s plymouth-quit-wait.service  <br>
 34.718s docker.service <br>
