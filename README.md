@@ -39,6 +39,12 @@ Basic linux commands used on regular basis  <br>
  </blockquote>
  
  
+  ### checking the current working directory
+ <blockquote>
+   $ pwd [output: /home/Downloads]
+ </blockquote>
+ 
+ 
  
  ### listing the items of particular folder 
  <blockquote>
