@@ -203,6 +203,25 @@ Basic linux commands used on regular basis  <br>
  
    </blockquote>
   
+  
+   ### Commands realtaed to mysql 
+  
+   <blockquote>
+    Check mysql service status <b>
+  
+    $ sudo service mysql status
+  
+  <b>
+   
+   
+    start: - 
+    $ sudo service mysql start
+
+     Stop :- 
+    $ sudo service mysql stop
+ 
+   </blockquote>
+  
  
  
  
