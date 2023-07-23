@@ -224,6 +224,8 @@ Basic linux commands used on regular basis  <br>
   
  
  
- 
+
+ ### command to kill any running port on tcp
+   sudo fuser -k 8080/tcp
  
 
