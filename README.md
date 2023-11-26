@@ -17,6 +17,12 @@ Basic linux commands used on regular basis  <br>
 
 <hr>
 
+
+## clear cached ram in linux
+
+sudo sh -c 'echo 1 > /proc/sys/vm/drop_caches'
+
+
 ### Check which type of shell is using 
   <blockquote>
   $ echo $0     [this commands shows the which type of shell you are using.]
